@@ -51,7 +51,17 @@ A full-stack web application for managing calibration certificates, service requ
 
 ## 📸 Screenshots
 
+### 🔐 Login Page
 
+![Login Page](./screenshots/login-page.png)
+
+### 🧾 Certificate Form
+
+![Certificate Form](./screenshots/certificate-form.png)
+
+### 📊 Admin Dashboard
+
+![Admin Dashboard](./screenshots/dashboard.png)
 ---
 
 ## 🔐 Authentication & Roles
