@@ -64,15 +64,6 @@ A full-stack web application for managing calibration certificates, service requ
 ![Admin Dashboard](./screenshots/dashboard.png)
 ---
 
-## 🔐 Authentication & Roles
-
-| Role   | Capabilities |
-|--------|--------------|
-| Admin  | Full access to all modules and user management |
-| Engineer | Access assigned service requests and certificates |
-| Client | View own certificates and service history |
-
----
 
 ## 🧾 Installation & Setup
 
