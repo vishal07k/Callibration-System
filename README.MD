@@ -80,3 +80,11 @@ A full-stack web application for managing calibration certificates, service requ
 ```bash
 cd backend
 ./mvnw spring-boot:run
+
+---
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/vishal07k/Callibration-System.git
+cd Callibration-System
