@@ -10,8 +10,9 @@ A full-stack web application for managing calibration certificates, service requ
 - **Spring Boot**
 - **Spring Security (JWT + Bcrypt)**
 - **JPA/Hibernate**
-- **MySQL / PostgreSQL** (or your preferred DB)
+- **MySQL**
 - **Lombok**
+- **Apache POI**
 
 ### Frontend
 - **React.js**
@@ -50,7 +51,6 @@ A full-stack web application for managing calibration certificates, service requ
 
 ## 📸 Screenshots
 
-(Add screenshots here of login page, dashboard, certificate form, etc.)
 
 ---
 
